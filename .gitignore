@@ -1,0 +1,6 @@
+.idea
+*.pyc
+*.swp
+.coverage
+.venv/
+.pytest_cache/
